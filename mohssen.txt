@@ -5,3 +5,11 @@ change it!
 change it 2
 
 commit pour rebase
+
+
+squash 2
+
+squash 1
+
+
+squash3
