@@ -1,9 +1,6 @@
 Readme data
 ===================
-
-Readme data
-===================
-para 1
-para 2
+section 1
+section 2
 
 =============
